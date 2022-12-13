@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\EmmanuelVázquezRodrí\source\repos\WebApiTalleres\WebApiTalleres\bin\Release\net5.0\publish\</_PublishTargetUrl>
+    <History>True|2022-08-25T16:26:46.2100808Z;True|2022-08-25T11:15:06.8745129-05:00;True|2022-06-27T22:36:54.2717331-05:00;True|2022-06-20T00:08:39.6819635-05:00;True|2022-06-14T10:55:52.5797552-05:00;True|2022-06-07T13:48:14.1031808-05:00;True|2022-05-25T00:46:09.9471124-05:00;True|2022-05-25T00:43:06.7598906-05:00;True|2022-05-25T00:33:58.1409494-05:00;True|2022-05-25T00:31:58.7045010-05:00;True|2022-05-25T00:30:49.9885186-05:00;True|2022-05-25T00:29:00.2873877-05:00;True|2022-05-25T00:26:10.5064089-05:00;True|2022-05-25T00:19:43.8647275-05:00;</History>
+  </PropertyGroup>
+</Project>

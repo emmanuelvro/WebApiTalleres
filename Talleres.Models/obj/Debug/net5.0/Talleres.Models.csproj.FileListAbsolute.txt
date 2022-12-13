@@ -1,0 +1,12 @@
+C:\Users\EmmanuelVázquezRodrí\source\repos\WebApiTalleres\Talleres.Models\bin\Debug\net5.0\Talleres.Models.deps.json
+C:\Users\EmmanuelVázquezRodrí\source\repos\WebApiTalleres\Talleres.Models\bin\Debug\net5.0\Talleres.Models.dll
+C:\Users\EmmanuelVázquezRodrí\source\repos\WebApiTalleres\Talleres.Models\bin\Debug\net5.0\ref\Talleres.Models.dll
+C:\Users\EmmanuelVázquezRodrí\source\repos\WebApiTalleres\Talleres.Models\bin\Debug\net5.0\Talleres.Models.pdb
+C:\Users\EmmanuelVázquezRodrí\source\repos\WebApiTalleres\Talleres.Models\obj\Debug\net5.0\Talleres.Models.csproj.AssemblyReference.cache
+C:\Users\EmmanuelVázquezRodrí\source\repos\WebApiTalleres\Talleres.Models\obj\Debug\net5.0\Talleres.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EmmanuelVázquezRodrí\source\repos\WebApiTalleres\Talleres.Models\obj\Debug\net5.0\Talleres.Models.AssemblyInfoInputs.cache
+C:\Users\EmmanuelVázquezRodrí\source\repos\WebApiTalleres\Talleres.Models\obj\Debug\net5.0\Talleres.Models.AssemblyInfo.cs
+C:\Users\EmmanuelVázquezRodrí\source\repos\WebApiTalleres\Talleres.Models\obj\Debug\net5.0\Talleres.Models.csproj.CoreCompileInputs.cache
+C:\Users\EmmanuelVázquezRodrí\source\repos\WebApiTalleres\Talleres.Models\obj\Debug\net5.0\Talleres.Models.dll
+C:\Users\EmmanuelVázquezRodrí\source\repos\WebApiTalleres\Talleres.Models\obj\Debug\net5.0\ref\Talleres.Models.dll
+C:\Users\EmmanuelVázquezRodrí\source\repos\WebApiTalleres\Talleres.Models\obj\Debug\net5.0\Talleres.Models.pdb

@@ -1,0 +1,15 @@
+C:\Users\EmmanuelVázquezRodrí\source\repos\WebApiTalleres\Talleres.Intefaces\bin\Debug\net5.0\Talleres.Intefaces.deps.json
+C:\Users\EmmanuelVázquezRodrí\source\repos\WebApiTalleres\Talleres.Intefaces\bin\Debug\net5.0\Talleres.Intefaces.dll
+C:\Users\EmmanuelVázquezRodrí\source\repos\WebApiTalleres\Talleres.Intefaces\bin\Debug\net5.0\ref\Talleres.Intefaces.dll
+C:\Users\EmmanuelVázquezRodrí\source\repos\WebApiTalleres\Talleres.Intefaces\bin\Debug\net5.0\Talleres.Intefaces.pdb
+C:\Users\EmmanuelVázquezRodrí\source\repos\WebApiTalleres\Talleres.Intefaces\bin\Debug\net5.0\Talleres.Models.dll
+C:\Users\EmmanuelVázquezRodrí\source\repos\WebApiTalleres\Talleres.Intefaces\bin\Debug\net5.0\Talleres.Models.pdb
+C:\Users\EmmanuelVázquezRodrí\source\repos\WebApiTalleres\Talleres.Intefaces\obj\Debug\net5.0\Talleres.Intefaces.csproj.AssemblyReference.cache
+C:\Users\EmmanuelVázquezRodrí\source\repos\WebApiTalleres\Talleres.Intefaces\obj\Debug\net5.0\Talleres.Intefaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EmmanuelVázquezRodrí\source\repos\WebApiTalleres\Talleres.Intefaces\obj\Debug\net5.0\Talleres.Intefaces.AssemblyInfoInputs.cache
+C:\Users\EmmanuelVázquezRodrí\source\repos\WebApiTalleres\Talleres.Intefaces\obj\Debug\net5.0\Talleres.Intefaces.AssemblyInfo.cs
+C:\Users\EmmanuelVázquezRodrí\source\repos\WebApiTalleres\Talleres.Intefaces\obj\Debug\net5.0\Talleres.Intefaces.csproj.CoreCompileInputs.cache
+C:\Users\EmmanuelVázquezRodrí\source\repos\WebApiTalleres\Talleres.Intefaces\obj\Debug\net5.0\Talleres.Intefaces.csproj.CopyComplete
+C:\Users\EmmanuelVázquezRodrí\source\repos\WebApiTalleres\Talleres.Intefaces\obj\Debug\net5.0\Talleres.Intefaces.dll
+C:\Users\EmmanuelVázquezRodrí\source\repos\WebApiTalleres\Talleres.Intefaces\obj\Debug\net5.0\ref\Talleres.Intefaces.dll
+C:\Users\EmmanuelVázquezRodrí\source\repos\WebApiTalleres\Talleres.Intefaces\obj\Debug\net5.0\Talleres.Intefaces.pdb

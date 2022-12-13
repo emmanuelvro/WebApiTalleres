@@ -1,0 +1,12 @@
+C:\Users\EmmanuelVázquezRodrí\source\repos\WebApiTalleres\Talleres.Logger\bin\Debug\net5.0\Talleres.Logger.deps.json
+C:\Users\EmmanuelVázquezRodrí\source\repos\WebApiTalleres\Talleres.Logger\bin\Debug\net5.0\Talleres.Logger.dll
+C:\Users\EmmanuelVázquezRodrí\source\repos\WebApiTalleres\Talleres.Logger\bin\Debug\net5.0\ref\Talleres.Logger.dll
+C:\Users\EmmanuelVázquezRodrí\source\repos\WebApiTalleres\Talleres.Logger\bin\Debug\net5.0\Talleres.Logger.pdb
+C:\Users\EmmanuelVázquezRodrí\source\repos\WebApiTalleres\Talleres.Logger\obj\Debug\net5.0\Talleres.Logger.csproj.AssemblyReference.cache
+C:\Users\EmmanuelVázquezRodrí\source\repos\WebApiTalleres\Talleres.Logger\obj\Debug\net5.0\Talleres.Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EmmanuelVázquezRodrí\source\repos\WebApiTalleres\Talleres.Logger\obj\Debug\net5.0\Talleres.Logger.AssemblyInfoInputs.cache
+C:\Users\EmmanuelVázquezRodrí\source\repos\WebApiTalleres\Talleres.Logger\obj\Debug\net5.0\Talleres.Logger.AssemblyInfo.cs
+C:\Users\EmmanuelVázquezRodrí\source\repos\WebApiTalleres\Talleres.Logger\obj\Debug\net5.0\Talleres.Logger.csproj.CoreCompileInputs.cache
+C:\Users\EmmanuelVázquezRodrí\source\repos\WebApiTalleres\Talleres.Logger\obj\Debug\net5.0\Talleres.Logger.dll
+C:\Users\EmmanuelVázquezRodrí\source\repos\WebApiTalleres\Talleres.Logger\obj\Debug\net5.0\ref\Talleres.Logger.dll
+C:\Users\EmmanuelVázquezRodrí\source\repos\WebApiTalleres\Talleres.Logger\obj\Debug\net5.0\Talleres.Logger.pdb
